@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">KotlinX</string>
+    <string name="movie" />
+    <string name="popular_movie" />
+    <string name="movie_description">Movie Description</string>
+    <string name="kotlindb">KotlinDB</string>
+    <string name="description">Description</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="icon">icon</string>
+    <string name="bos" />
+    <string name="tagline">Tagline</string>
+    <string name="movie_info">Movie Info:</string>
+    <string name="released_date">Released Date:</string>
+    <string name="realized_date_title">Realized Date Title</string>
+    <string name="ratingTitle">Rating:</string>
+    <string name="_8">8</string>
+    <string name="runtime">Runtime:</string>
+    <string name="_2_3_hr">2.3 hr</string>
+    <string name="budgetTitle">Budget:</string>
+    <string name="_130_000">130,000</string>
+    <string name="revenue">Revenue:</string>
+    <string name="_130_0000">130,000</string>
+    <string name="overview">Overview :</string>
+    <string name="overvieww">overview .........</string>
+    <string name="sub_title">sub title</string>
+    <string name="_2019">2019</string>
+    <string name="company">Company:</string>
+    <string name="popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search...</string>
+</resources>
