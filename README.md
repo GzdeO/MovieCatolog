@@ -8,7 +8,7 @@ Merhaba! Ben Gözde,
 I have developed a unique and captivating Movie Catalog App that reflects my own creativity and passion for technology.
 
 Project Summary:
-In this project, I have created a film catalog app using popular programming libraries such as Retrofit, Glide, CarouselRecyclerView, Slider Effect, and Collapsing Toolbar. I utilized TMDB API data to provide an exceptional experience for movie enthusiasts. With this app, you can explore your favorite movies effortlessly.
+In this project, I have created a film catalog app using popular programming libraries such as MVVM, Retrofit, Glide, CarouselRecyclerView, Slider Effect, and Collapsing Toolbar. I utilized TMDB API data to provide an exceptional experience for movie enthusiasts. With this app, you can explore your favorite movies effortlessly.
 
 Project Features:
 Stunning Visuals: Load movie images in high quality and with speed using Glide.
