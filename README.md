@@ -1,5 +1,5 @@
 # MovieCatolog
-Merhaba! Ben Gözde, 
+Hello! I'm Gözde, 
 
 💖 Kotlin enthusiast for Android. 
 🎯 I’m currently learning everything 🤣 
